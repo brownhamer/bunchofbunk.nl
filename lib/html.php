@@ -50,81 +50,10 @@ function endHtmlPage() {
 }
 
 #-------------------------------------------------------------------------------
-function getColor($color, $factor = 1.0) {
-	if ($color < $factor) { $color += $factor; }
-	$color = $factor * $color;
-	if ($color > 255) { $color = 255; }
-	if ($color <   0) { $color =   0; }
-	return $color;
-}
-
-#-------------------------------------------------------------------------------
-function hexColor($rgb, $factor = 1.0) {
-	$red   = getColor($rgb[0], $factor);
-	$green = getColor($rgb[1], $factor);
-	$blue  = getColor($rgb[2], $factor);
-	return sprintf('#%02x%02x%02x', $red, $green, $blue);
-}
-
-#-------------------------------------------------------------------------------
-class LinkButton {
-	private $_title = null;
-	private $_url   = null;
-	private $_rgb   = null;
-	private $_class = null;
-	private $_doCss = true;
-
-	public function __construct($title, $url, $red, $green, $blue) {
-		$this->_title = $title;
-		$this->_url   = $url;
-		$this->_rgb   = array($red, $green, $blue);
-		$this->_class = md5($title.$url);
-	}
-
-	private function css() {
-		$normal = hexColor($this->_rgb);
-		$dark   = hexColor($this->_rgb, 0.8);
-		$light  = hexColor($this->_rgb, 1.2);
-
-		$string  = '<style type="text/css">'."\n";
-		$string .= '.link-button-'.$this->_class.' { background-color: '.$normal.'; }'."\n";
-		$string .= 'a.link-button-'.$this->_class.':hover {'."\n";
-		$string .=  'background-color: '.$dark.';'."\n";
-		$string .=  'background: -webkit-linear-gradient(top, '.$light.', '.$dark.');'."\n";
-		$string .=  'background: -moz-linear-gradient(top, '.$light.', '.$dark.');'."\n";
-		$string .=  'background: -o-linear-gradient(top, '.$light.', '.$dark.');'."\n";
-		$string .=  'background: -ms-linear-gradient(top, '.$light.', '.$dark.');'."\n";
-		$string .=  'background: linear-gradient(top, '.$light.', '.$dark.');'."\n";
-		$string .=  'border-color: '.$dark.';'."\n";
-		$string .=  '}'."\n";
-		$string .=  '</style>'."\n";
-
-		return $string;
-	}
-
-	private function a() {
-		return '<a href="'.$this->_url.'" class="link-button link-button-'.$this->_class.'">'.$this->_title.'</a>'."\n";
-	}
-
-	public function __toString() {
-		$string = '';
-		if ($this->_doCss) {
-			$string .= $this->css();
-			$this->_doCss = false;
-		}
-
-		$string .= $this->a();
-		return $string;
-	}
-}
-
-#-------------------------------------------------------------------------------
 $alt0_url    = 'https://alt0.nl';
 $bob_url     = 'https://bunchofbunk.nl';
 $dgt_url     = 'https://degoedetweeling.net';
 $nieklin_url = 'https://nieklin.nl';
 
-$alt0_button       = new LinkButton('Alt0.nl'      , $alt0_url,  85, 102, 136);
-$bob_button        = new LinkButton('Bunch of Bunk', $bob_url ,  59,  61,  63);
 
 #============================================================================ ?>
