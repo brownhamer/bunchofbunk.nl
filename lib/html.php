@@ -39,21 +39,13 @@ function startHtmlPage($title) {
 function endHtmlPage() {
 	global $alt0_url, $bob_url, $dgt_url, $nieklin_url;
 
-	echo '<div id="footer">'."\n";
-	echo '<a href="'.$alt0_url.'">Alt0.nl</a> = Hendrik<br />'."\n";
-	echo '<a href="'.$bob_url.'">BunchOfBunk.nl</a> = Band<br />'."\n";
-	echo '<a href="'.$dgt_url.'">deGoedeTweeling.net</a> = Rik &amp; Tim<br />'."\n";
-	echo '<a href="'.$nieklin_url.'">Nieklin.nl</a> = Sandra<br />'."\n";
-	echo '</div>'."\n";
+	echo '<div id="footer"><a href="'.$bob_url.'">BunchOfBunk.nl</a></div>'."\n";
     echo '</body>'."\n";
     echo '</html>'."\n";
 }
 
 #-------------------------------------------------------------------------------
-$alt0_url    = 'https://alt0.nl';
-$bob_url     = 'https://bunchofbunk.nl';
-$dgt_url     = 'https://degoedetweeling.net';
-$nieklin_url = 'https://nieklin.nl';
+$bob_url = 'https://bunchofbunk.nl';
 
 
 #============================================================================ ?>
