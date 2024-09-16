@@ -21,7 +21,12 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
 
 <div id="page">
 <div id="navigation">
-Navigation
+    <a href="<?php echo $bob_url . "?page=band"; ?>">Band</a><br />
+    <br />
+    <a href="<?php echo $bob_url . "?page=albums"; ?>">Albums</a><br />
+    &middot; <a href="<?php echo $bob_url . "?page=pleasedtomeetyou"; ?>">Pleased to Meet You</a><br />
+    &middot; <a href="<?php echo $bob_url . "?page=difficult2nd"; ?>">Difficult 2nd</a><br />
+    &middot; <a href="<?php echo $bob_url . "?page=fearless"; ?>">Fearless</a><br />
 </div>
 <div id="content">
 Content
