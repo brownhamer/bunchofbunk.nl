@@ -26,6 +26,17 @@ h2 { /* We rock! */
 	text-align: center;
 }
 
+h3 { /* We rock! */
+	border-bottom: 1px solid;
+	border-bottom-color: rgb(220 220 220 /100%);
+	font-size: 1.0rem;
+	font-style: italic;
+	font-weight: lighter;
+	margin: 10px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
 div#page {
 	display: grid;
 	grid-template-columns: 1fr 4fr 1fr;
@@ -51,7 +62,6 @@ div#content {
 
 div#socials {
 	font-family: 'Open Sans', Helvetica, sans-serif;
-	font-size: 0.9rem;
 	padding: 7px;
 }
 

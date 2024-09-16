@@ -21,6 +21,7 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
 
 <div id="page">
 <div id="navigation">
+    <h3>Navigation</h3>
     <a href="<?php echo $bob_url . "?page=band"; ?>">Band</a><br />
     <br />
     <a href="<?php echo $bob_url . "?page=albums"; ?>">Albums</a><br />
@@ -32,7 +33,20 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
 Content
 </div>
 <div id="socials">
-Socials
+    <h3>Socials</h3>
+    <a href="https://open.spotify.com/artist/5hRck8ylzUPLXWXrcHKJ2D">Spotify</a><br />
+    <a href="https://www.reverbnation.com/bunchofbunk">ReverbNation</a><br />
+    <a href="https://soundcloud.com/bunch-of-bunk">SoundCloud</a><br />
+    <a href="https://www.youtube.com/channel/UCyjs_qrurO6OdGXZgcJhK-g">YouTube</a><br />
+    <a href="https://www.facebook.com/pages/Bunch-of-Bunk/137974419583188">Facebook</a><br />
+    <a href="https://www.instagram.com/bunchofbunk/">Instagram</a><br />
+    <a href="https://www.threads.net/@bunchofbunk">Threads</a><br />
+    <br />
+    <a href="mailto:band@bunchofbunk.nl">Mail</a><br />
+    <br />
+    <hr />
+    <br />
+    <a href="https://www.muzikantenbank.net/">Muzikantenbank.NET</a> voor als je muzikanten of een bandje zoekt.
 </div>
 </div>
 
