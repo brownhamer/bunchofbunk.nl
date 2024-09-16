@@ -35,6 +35,12 @@ function startHtmlPage($ptr, $title, $line) {
 }
 
 #-------------------------------------------------------------------------------
+function randomHtmlMusicSymbol() {
+	$symbols = array('&#9833;', '&#9834;', '&#9835;', '&#9836;', '&#9837;', '&#9838;', '&#9839;');
+    echo $symbols[array_rand($symbols)];
+}
+
+#-------------------------------------------------------------------------------
 function endHtmlPage() {
     echo '</body>'."\n";
     echo '</html>'."\n";

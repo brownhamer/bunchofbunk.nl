@@ -4,31 +4,34 @@ body {
     background-attachment: fixed;
     background-position: bottom left;
 	color: rgb(15 15 15);
-	font-family: serif;
+	font-family: 'Lora', 'Playfair Display', Georgia, serif;
 	margin: 0;
 	padding: 0;
 }
 
+a {
+	color: rgb(75 25 15);
+	text-decoration: none;
+}
+
+a:hover {
+	color: rgb(215 85 15);
+}
+
 h1 { /* Bunch of Bunk */
-	font-family: serif;
+	font-size: 2.5rem;
 	margin: 20px 20px 10px;
 	text-align: center;
 }
 
 h1 a {
 	color: rgb(15 15 15);
-	text-decoration: none;
-}
-
-h1 a:hover {
-	color: rgb(215 85 15);
-	text-decoration: none;
 }
 
 h2 { /* We rock! */
 	border-bottom: 1px solid;
 	border-bottom-color: rgb(220 220 220 /100%);
-	font-family: serif;
+	font-size: 1.1rem;
 	font-style: italic;
 	font-weight: lighter;
 	margin: 10px 20px 20px;
@@ -48,21 +51,28 @@ div#page {
 	}
 } 
 
+div#navigation {
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	padding: 7px;
+}
+
+div#content a {
+	font-weight: bold;
+}
+
+div#socials {
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 0.9rem;
+	padding: 7px;
+}
+
 div#footer {
 	background-color: rgb(245 245 245 / 95%);
 	bottom: 10px;
-	color: rgb(95 95 95 / 65%);
-	font-size: small;
+	color: rgb(125 125 125 / 65%);
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 0.7rem;
 	padding: 7px;
 	position: absolute;
 	right: 10px;
-}
-
-div#footer a {
-	color: rgb(95 85 75 / 65%);
-    text-decoration: none;
-}
-
-div#footer a:hover {
-	color: rgb(95 35 15 / 65%);
 }
