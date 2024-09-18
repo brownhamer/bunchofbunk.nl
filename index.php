@@ -39,7 +39,10 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
     </div>
 </div>
 <div id="content">
-    Content
+<?php
+    $page = getGet('page', 'home');
+    echo "page = $page";
+?>
 </div>
 </div>
 
