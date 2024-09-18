@@ -3,7 +3,7 @@
 #-------------------------------------------------------------------------------
 $bob_title = 'Bunch of Bunk';
 $bob_line  = 'We rock!';
-$bob_url   = 'https://bunchofbunk.nl';
+$bob_url   = onLocalhost() ? 'http://localhost' : 'https://bunchofbunk.nl';
 
 #-------------------------------------------------------------------------------
 # Site by
