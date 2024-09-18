@@ -21,7 +21,6 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
 
 <div id="page">
 <div id="navigation">
-    <h3>Navigation</h3>
     <a href="<?php echo $bob_url . "?page=band"; ?>">Band</a><br />
     <br />
     <a href="<?php echo $bob_url . "?page=albums"; ?>">Albums</a><br />
@@ -33,7 +32,6 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
 Content
 </div>
 <div id="socials">
-    <h3>Socials</h3>
     <a href="https://open.spotify.com/artist/5hRck8ylzUPLXWXrcHKJ2D"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://spotify.com/&size=16" src="images/spotify.png" /></a>
     <a href="https://www.reverbnation.com/bunchofbunk"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://reverbnation.com/&size=16" src="images/reverbnation.png" /></a>
     <a href="https://soundcloud.com/bunch-of-bunk"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://soundcloud.com/&size=16" src="images/soundcloud.png" /></a>
