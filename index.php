@@ -25,17 +25,17 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
         <a href="<?php echo $bob_url . "?page=media"; ?>">Media</a>
     </div>
     <div id="socials">
-        <a href="https://open.spotify.com/artist/5hRck8ylzUPLXWXrcHKJ2D"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://spotify.com/&size=16" src="images/spotify.png" /></a>
-        <a href="https://www.reverbnation.com/bunchofbunk"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://reverbnation.com/&size=16" src="images/reverbnation.png" /></a>
-        <a href="https://soundcloud.com/bunch-of-bunk"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://soundcloud.com/&size=16" src="images/soundcloud.png" /></a>
-        <a href="https://www.youtube.com/channel/UCyjs_qrurO6OdGXZgcJhK-g"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://youtube.com/&size=16" src="images/youtube.png" /></a>
-        <a href="https://www.facebook.com/pages/Bunch-of-Bunk/137974419583188"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://facebook.com/&size=16" src="images/facebook.png" /></a>
-        <a href="https://www.instagram.com/bunchofbunk/"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://instagram.com/&size=16" src="images/instagram.png" /></a>
-        <a href="https://www.threads.net/@bunchofbunk"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://threads.net/&size=16" src="images/threads.png" /></a>
-        <a href="mailto:band@bunchofbunk.nl"><img alt="mail" src="images/mail.png" /></a><br />
+        <a href="<?php echo $spotify_url; ?>"><img alt="Spotify" src="<?php echo $spotify_icon; ?>" /></a>
+        <a href="<?php echo $reverbnation_url; ?>"><img alt="ReverbNation" src="<?php echo $reverbnation_icon; ?>" /></a>
+        <a href="<?php echo $soundcloud_url; ?>"><img alt="SoundCloud" src="<?php echo $soundcloud_icon; ?>" /></a>
+        <a href="<?php echo $youtube_url; ?>"><img alt="YouTube" src="<?php echo $youtube_icon; ?>" /></a>
+        <a href="<?php echo $facebook_url; ?>"><img alt="Facebook" src="<?php echo $facebook_icon; ?>" /></a>
+        <a href="<?php echo $instagram_url; ?>"><img alt="Instagram" src="<?php echo $instagram_icon; ?>" /></a>
+        <a href="<?php echo $bobthreads_url_url; ?>"><img alt="Threads" src="<?php echo $threads_icon; ?>" /></a>
+        <a href="<?php echo $mail_url; ?>"><img alt="mail" src="<?php echo $mail_icon; ?>" /></a><br />
     </div>
     <div id="muzikantenbank">
-        <a href="https://www.muzikantenbank.net/">Muzikantenbank.NET</a> voor als je muzikanten of een bandje zoekt.
+        <a href="<?php echo $muzikantenbank_url; ?>">Muzikantenbank.NET</a> voor als je muzikanten of een bandje zoekt.
     </div>
 </div>
 <div id="content">
