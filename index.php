@@ -3,6 +3,7 @@ $PATH_TO_ROOT = '.';
 require_once($PATH_TO_ROOT.'/lib/base.php');
 require_once($PATH_TO_ROOT.'/lib/html.php');
 require_once($PATH_TO_ROOT.'/lib/vars.php');
+require_once($PATH_TO_ROOT.'/lib/Parsedown.php');
 
 #-------------------------------------------------------------------------------
 startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
@@ -40,8 +41,14 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
 </div>
 <div id="content">
 <?php
-    $page = getGet('page', 'home');
-    echo "page = $page";
+    $page = htmlspecialchars(getGet('page', 'home'));
+    if (!is_readable($PATH_TO_ROOT.'/content/'.$page.'.md')) { $page = 'home'; }
+
+    $file = $PATH_TO_ROOT.'/content/'.$page.'.md';
+    $markdown = file_get_contents($file);
+    $parsedown = new Parsedown();
+    echo $parsedown->text($markdown);
+    echo "<!-- $page content from $file -->";
 ?>
 </div>
 </div>
