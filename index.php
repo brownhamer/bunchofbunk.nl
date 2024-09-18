@@ -42,13 +42,16 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
 <div id="content">
 <?php
     $page = htmlspecialchars(getGet('page', 'home'));
-    if (!is_readable($PATH_TO_ROOT.'/content/'.$page.'.md')) { $page = 'home'; }
+    if (!is_readable($PATH_TO_ROOT.'/content/'.$page.'.md')) {
+        echo '<div id="pagenotfound">Page ['.$page.'] not found, assuming homepage</div>'."\n";
+        $page = 'home';
+    }
 
     $file = $PATH_TO_ROOT.'/content/'.$page.'.md';
     $markdown = file_get_contents($file);
     $parsedown = new Parsedown();
     echo $parsedown->text($markdown);
-    echo "<!-- $page content from $file -->";
+    echo "\n".'<!-- ['.$page.'] content from ['.$file.' -->'."\n";
 ?>
 </div>
 </div>

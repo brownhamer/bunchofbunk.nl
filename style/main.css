@@ -94,6 +94,17 @@ div#content {
 	padding: 7px 7px 7px 21px;
 }
 
+div#content p {
+	margin: 0;
+	padding: 0;
+}
+
+div#pagenotfound {
+	color: rgb(115 115 115);
+	font-size: 0.6rem;
+	font-style: italic;
+}
+
 div#by {
 	background-color: rgb(245 245 245 / 95%);
 	border-radius: 7px;
