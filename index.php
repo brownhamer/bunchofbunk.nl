@@ -34,15 +34,15 @@ Content
 </div>
 <div id="socials">
     <h3>Socials</h3>
-    <a href="https://open.spotify.com/artist/5hRck8ylzUPLXWXrcHKJ2D">Spotify</a><br />
-    <a href="https://www.reverbnation.com/bunchofbunk">ReverbNation</a><br />
-    <a href="https://soundcloud.com/bunch-of-bunk">SoundCloud</a><br />
-    <a href="https://www.youtube.com/channel/UCyjs_qrurO6OdGXZgcJhK-g">YouTube</a><br />
-    <a href="https://www.facebook.com/pages/Bunch-of-Bunk/137974419583188">Facebook</a><br />
-    <a href="https://www.instagram.com/bunchofbunk/">Instagram</a><br />
-    <a href="https://www.threads.net/@bunchofbunk">Threads</a><br />
-    <br />
-    <a href="mailto:band@bunchofbunk.nl">Mail</a><br />
+    <a href="https://open.spotify.com/artist/5hRck8ylzUPLXWXrcHKJ2D"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://spotify.com/&size=16" src="images/spotify.png" /></a>
+    <a href="https://www.reverbnation.com/bunchofbunk"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://reverbnation.com/&size=16" src="images/reverbnation.png" /></a>
+    <a href="https://soundcloud.com/bunch-of-bunk"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://soundcloud.com/&size=16" src="images/soundcloud.png" /></a>
+    <a href="https://www.youtube.com/channel/UCyjs_qrurO6OdGXZgcJhK-g"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://youtube.com/&size=16" src="images/youtube.png" /></a>
+    <a href="https://www.facebook.com/pages/Bunch-of-Bunk/137974419583188"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://facebook.com/&size=16" src="images/facebook.png" /></a>
+    <a href="https://www.instagram.com/bunchofbunk/"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://instagram.com/&size=16" src="images/instagram.png" /></a>
+    <a href="https://www.threads.net/@bunchofbunk"><img alt="https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://threads.net/&size=16" src="images/threads.png" /></a>
+    &middot;
+    <a href="mailto:band@bunchofbunk.nl"><img alt="mail" src="images/mail.png" /></a><br />
     <br />
     <hr />
     <br />
