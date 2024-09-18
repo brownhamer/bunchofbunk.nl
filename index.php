@@ -2,14 +2,7 @@
 $PATH_TO_ROOT = '.';
 require_once($PATH_TO_ROOT.'/lib/base.php');
 require_once($PATH_TO_ROOT.'/lib/html.php');
-
-#-------------------------------------------------------------------------------
-$bob_title = 'Bunch of Bunk';
-$bob_line  = 'We rock!';
-$bob_url   = 'https://bunchofbunk.nl';
-
-$alt0_title = 'Alt0';
-$alt0_url   = 'https://alt0.nl';
+require_once($PATH_TO_ROOT.'/lib/vars.php');
 
 #-------------------------------------------------------------------------------
 startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
