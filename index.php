@@ -50,10 +50,9 @@ Content
 </div>
 </div>
 
-<div id="footer">
-    <a href="<?php echo $alt0_url; ?>"><?php echo $alt0_title; ?></a>
+<div id="by">
     <?php randomHtmlMusicSymbol(); ?>
-    <a href="<?php echo $bob_url; ?>"><?php echo $bob_title; ?></a>
+    site by <a href="<?php echo $alt0_url; ?>"><?php echo $alt0_title; ?></a>
 </div>
 
 <?php #=========================================================================

@@ -62,13 +62,14 @@ div#content {
 
 div#socials {
 	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 0.8rem;
 	padding: 7px;
 }
 
-div#footer {
+div#by {
 	background-color: rgb(245 245 245 / 95%);
 	border-radius: 7px;
-	bottom: 10px;
+	top: 10px;
 	color: rgb(125 125 125 / 65%);
 	font-family: 'Open Sans', Helvetica, sans-serif;
 	font-size: 0.7rem;
