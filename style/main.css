@@ -38,11 +38,56 @@ div#page {
 	}
 } 
 
-div#navigation {
+div#footer {
+	display: grid;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	font-size: 0.8rem;
+	grid-template-columns: 1fr 1fr;
+	margin: 10px 20px 40px;
+	padding: 21px;
+}
+
+@media screen and (width <= 600px) {
+	div#footer {
+		display: block;
+	}
+}
+
+div#auteursrechten, div#copyright {
+	background-color: rgb(255 255 255 / 30%);
+	border-radius: 14px;
+	margin: 7px;
+	padding: 7px;
+}
+
+div#auteursrechten h3, div#copyright h3 {
+	border-bottom: 2px solid;
+	border-bottom-color: rgb(215 85 15);
+	display: inline;
+}
+
+div#sidebar {
 	background-color: rgb(245 245 245 / 95%);
 	border-radius: 14px;
 	font-family: 'Open Sans', Helvetica, sans-serif;
 	padding: 14px;
+}
+
+div#socials {
+	border-top: 1px solid;
+	border-top-color: rgb(220 220 220 /100%);
+	margin-top: 14px;
+	padding-top: 14px;
+	text-align: center;
+}
+
+div#muzikantenbank {
+	border-top: 1px solid;
+	border-top-color: rgb(220 220 220 /100%);
+	font-size: 0.8rem;
+	font-style: italic;
+	margin-top: 14px;
+	padding-top: 14px;
 }
 
 div#content {
@@ -62,7 +107,7 @@ div#by {
 }
 
 a {
-	color: rgb(75 25 15);
+	color: rgb(115 25 15);
 	text-decoration: none;
 }
 
@@ -74,6 +119,14 @@ a:hover {
 	color: rgb(215 85 15);
 }
 
+div#navigation a {
+	color: rgb(15 15 15);
+}
+
 div#content a {
 	font-weight: bold;
+}
+
+div#navigation a:hover {
+	color: rgb(215 85 15);
 }
