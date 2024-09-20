@@ -2,12 +2,13 @@
 
 #-------------------------------------------------------------------------------
 $bobpages = [
-    'band'             => "Band",
-    'albums'           => "Albums",
+    'band' => "Band",
+    'albums' => "Albums",
     'pleasedtomeetyou' => "Pleased to Meet You",
-    'difficult2nd'     => "Difficult 2nd",
-    'fearless'         => "Fearless",
-    'media'            => "Media",
+    'pleasedtomeetyoumaster' => "Pleased to Meet You Master",
+    'difficult2nd' => "Difficult 2nd",
+    'fearless' => "Fearless",
+    'media' => "Media",
 ];
 
 #-------------------------------------------------------------------------------

@@ -20,6 +20,7 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
         <br />
         <?php echo pageLink('albums'); ?><br />
         &middot; <?php echo pageLink('pleasedtomeetyou'); ?><br />
+        &middot; <?php echo pageLink('pleasedtomeetyoumaster'); ?><br />
         &middot; <?php echo pageLink('difficult2nd'); ?><br />
         &middot; <?php echo pageLink('fearless'); ?><br />
         <br />
