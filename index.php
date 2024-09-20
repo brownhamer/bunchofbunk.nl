@@ -16,14 +16,14 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
 <div id="page">
 <div id="sidebar">
     <div id="navigation">
-        <?php echo textLink('bunchofbunk', 'Band', '?page=band'); ?><br />
+        <?php echo pageLink('band'); ?><br />
         <br />
-        <?php echo textLink('bunchofbunk', 'Albums', '?page=albums'); ?><br />
-        &middot; <?php echo textLink('bunchofbunk', 'Pleased to Meet You', '?page=pleasedtomeetyou'); ?><br />
-        &middot; <?php echo textLink('bunchofbunk', 'Difficult 2nd', '?page=difficult2nd'); ?><br />
-        &middot; <?php echo textLink('bunchofbunk', 'Fearless', '?page=fearless'); ?><br />
+        <?php echo pageLink('albums'); ?><br />
+        &middot; <?php echo pageLink('pleasedtomeetyou'); ?><br />
+        &middot; <?php echo pageLink('difficult2nd'); ?><br />
+        &middot; <?php echo pageLink('fearless'); ?><br />
         <br />
-        <?php echo textLink('bunchofbunk', 'Media', '?page=media'); ?>
+        <?php echo pageLink('media'); ?>
     </div>
     <div id="socials">
         <?php echo iconLink('spotify'); ?>
@@ -50,7 +50,7 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
     $file = $PATH_TO_ROOT.'/content/'.$page.'.md';
     $markdown = file_get_contents($file);
     $parsedown = new Parsedown();
-    echo $parsedown->text($markdown);
+    echo replaceBobLinks($parsedown->text($markdown));
     echo "\n".'<!-- ['.$page.'] content from ['.$file.' -->'."\n";
 ?>
 </div>

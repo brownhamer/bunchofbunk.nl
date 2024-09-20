@@ -39,7 +39,13 @@ function textLink($key, $txt = '', $urladd = '') {
 	global $boblinks;
 	$url  = $boblinks[$key]['url'];
 	$text = ($txt == '') ? $boblinks[$key]['text'] : $txt;
-	return '<a href="'.$url.$urladd.'">'.$text.'</a>'."\n";
+	return '<a href="'.$url.$urladd.'">'.$text.'</a>';
+}
+
+#-------------------------------------------------------------------------------
+function pageLink($key) {
+	global $bobpages;
+	return textlink('bunchofbunk', $bobpages[$key], '?page='.$key);
 }
 
 #-------------------------------------------------------------------------------
@@ -48,8 +54,28 @@ function iconLink($key) {
 	$url  = $boblinks[$key]['url'];
 	$text = $boblinks[$key]['text'];
 	$icon = $boblinks[$key]['icon'];
-	return '<a href="'.$url.'"><img alt="'.$text.'" src="'.$icon.'" /></a>'."\n";
+	return '<a href="'.$url.'"><img alt="'.$text.'" src="'.$icon.'" /></a>';
 }
+
+#-------------------------------------------------------------------------------
+function replaceBobLinks($text) {
+	global $boblinks;
+	foreach ($boblinks as $key => $value) {
+		$pattern = '/\[BOBLINK_'.$key.'\]/';
+		$replace = textlink($key);
+		$text = preg_replace($pattern, $replace, $text);
+	}
+
+	global $bobpages;
+	foreach ($bobpages as $key => $value) {
+		$pattern = '/\[BOBPAGE_'.$key.'\]/';
+		$replace = pageLink($key);
+		$text = preg_replace($pattern, $replace, $text);
+	}
+
+	return $text;
+}
+
 #-------------------------------------------------------------------------------
 function randomHtmlMusicSymbol() {
 	$symbols = array('&#9833;', '&#9834;', '&#9835;', '&#9836;', '&#9837;', '&#9838;', '&#9839;');
