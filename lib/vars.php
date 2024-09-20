@@ -36,7 +36,7 @@ $boblinks = [
     'xyzon' => [
         'url'  => 'http://xyzon.nl',
         'text' => 'Xyzon',
-        'icon' => $PATH_TO_ROOT.'/images/alt0.png',
+        'icon' => $PATH_TO_ROOT.'/images/xyzon.png',
     ],
 
     'facebook' => [
