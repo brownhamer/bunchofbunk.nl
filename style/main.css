@@ -28,7 +28,7 @@ h2 { /* We rock! */
 
 div#page {
 	display: grid;
-	grid-template-columns: 1fr 5fr;
+	grid-template-columns: 2fr 7fr;
 	margin: 10px 20px 40px;
 }
 
