@@ -94,6 +94,16 @@ div#content {
 	padding: 7px 7px 7px 21px;
 }
 
+div#content h1, div#content h2, div#content h3 {
+	margin: 0;
+	padding: 0;
+	text-align: left;
+}
+
+div#content h1 {
+	font-size: 1.5rem;
+}
+
 div#content p {
 	margin: 0;
 	padding: 0;
@@ -103,6 +113,7 @@ div#pagenotfound {
 	color: rgb(115 115 115);
 	font-size: 0.6rem;
 	font-style: italic;
+	text-align: right;
 }
 
 div#by {

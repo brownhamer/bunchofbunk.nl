@@ -1,1 +1,3 @@
-# Bunch of Bunk
+# Welkom
+
+Een simpele site voor een simpele band.
