@@ -17,3 +17,12 @@
 - Laatste CD [BOBPAGE_fearless] is onder meer te vinden op [BOBLINK_spotify].
 - Heel soms plaatsen we zelfs iets op [BOBLINK_instagram].
 - We zijn uiteraard ook via [BOBLINK_mail] bereikbaar.
+
+## Oud bandleden
+
+- **Corjan Verbraak**: *zang*
+- **Floor**: *zang* - ([BOBLINK_fieldtrip])
+- **Jeroen Blösser**: *gitaar*
+- **Jip**: *drum* - ([BOBLINK_xyzon])
+- **Rob Marijnissen**: *drum*
+- **Willem Bogers**: *drum*
