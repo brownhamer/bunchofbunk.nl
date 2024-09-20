@@ -101,7 +101,7 @@ div#content {
 }
 
 div#content h1, div#content h2, div#content h3 {
-	margin: 0 0 21px 0;
+	margin: 0 0 21px;
 	padding: 0;
 	text-align: left;
 }
@@ -119,7 +119,7 @@ div#content h2 {
 
 div#content p {
 	line-height: 1.5;
-	margin: 0 0 42px 0;
+	margin: 0 0 42px;
 	padding: 0;
 }
 
