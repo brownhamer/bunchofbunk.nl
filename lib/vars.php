@@ -1,6 +1,16 @@
 <?php #=========================================================================
 
 #-------------------------------------------------------------------------------
+$bobpages = [
+    'band'             => "Band",
+    'albums'           => "Albums",
+    'pleasedtomeetyou' => "Pleased to Meet You",
+    'difficult2nd'     => "Difficult 2nd",
+    'fearless'         => "Fearless",
+    'media'            => "Media",
+];
+
+#-------------------------------------------------------------------------------
 # External link icons created using:
 # https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://muzikantenbank.net/&size=16
 
@@ -63,6 +73,5 @@ $boblinks = [
         'icon' => $PATH_TO_ROOT.'/images/youtube.png',
     ],
 ];
-
 
 #============================================================================ ?>
