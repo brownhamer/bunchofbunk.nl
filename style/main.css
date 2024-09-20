@@ -115,12 +115,17 @@ div#content h2 {
 	font-size: 1.3rem;
 	font-style: normal;
 	font-weight: bold;
-	margin-top: 21px;
 }
 
 div#content p {
-	margin: 0;
+	line-height: 1.5;
+	margin: 0 0 42px 0;
 	padding: 0;
+}
+
+div#content ol, div#content ul {
+	line-height: 2;
+	margin-bottom: 42px;
 }
 
 div#pagenotfound {
