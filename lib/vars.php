@@ -14,7 +14,7 @@ $boblinks = [
     ],
     'alt0' => [
         'url'  => 'https://alt0.nl',
-        'text' => 'Alt0',
+        'text' => 'Alt0.nl',
         'icon' => $PATH_TO_ROOT.'/images/alt0.png',
     ],
     'facebook' => [
