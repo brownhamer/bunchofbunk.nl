@@ -35,6 +35,22 @@ function startHtmlPage($ptr, $title, $line) {
 }
 
 #-------------------------------------------------------------------------------
+function textLink($key, $txt = '', $urladd = '') {
+	global $boblinks;
+	$url  = $boblinks[$key]['url'];
+	$text = ($txt == '') ? $boblinks[$key]['text'] : $txt;
+	return '<a href="'.$url.$urladd.'">'.$text.'</a>'."\n";
+}
+
+#-------------------------------------------------------------------------------
+function iconLink($key) {
+	global $boblinks;
+	$url  = $boblinks[$key]['url'];
+	$text = $boblinks[$key]['text'];
+	$icon = $boblinks[$key]['icon'];
+	return '<a href="'.$url.'"><img alt="'.$text.'" src="'.$icon.'" /></a>'."\n";
+}
+#-------------------------------------------------------------------------------
 function randomHtmlMusicSymbol() {
 	$symbols = array('&#9833;', '&#9834;', '&#9835;', '&#9836;', '&#9837;', '&#9838;', '&#9839;');
     echo $symbols[array_rand($symbols)];

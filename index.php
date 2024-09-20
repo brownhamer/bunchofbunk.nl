@@ -6,37 +6,37 @@ require_once($PATH_TO_ROOT.'/lib/vars.php');
 require_once($PATH_TO_ROOT.'/lib/Parsedown.php');
 
 #-------------------------------------------------------------------------------
-startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
+startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['bunchofbunk']['tag']);
 
 #============================================================================ ?>
 
-<h1><a href="<?php echo $bob_url; ?>"><?php echo $bob_title; ?></a></h1>
-<h2><?php echo $bob_line; ?></h2>
+<h1><?php echo textLink('bunchofbunk'); ?></h1>
+<h2><?php echo $boblinks['bunchofbunk']['tag']; ?></h2>
 
 <div id="page">
 <div id="sidebar">
     <div id="navigation">
-        <a href="<?php echo $bob_url . "?page=band"; ?>">Band</a><br />
+        <?php echo textLink('bunchofbunk', 'Band', '?page=band'); ?><br />
         <br />
-        <a href="<?php echo $bob_url . "?page=albums"; ?>">Albums</a><br />
-        &middot; <a href="<?php echo $bob_url . "?page=pleasedtomeetyou"; ?>">Pleased to Meet You</a><br />
-        &middot; <a href="<?php echo $bob_url . "?page=difficult2nd"; ?>">Difficult 2nd</a><br />
-        &middot; <a href="<?php echo $bob_url . "?page=fearless"; ?>">Fearless</a><br />
+        <?php echo textLink('bunchofbunk', 'Albums', '?page=albums'); ?><br />
+        &middot; <?php echo textLink('bunchofbunk', 'Pleased to Meet You', '?page=pleasedtomeetyou'); ?><br />
+        &middot; <?php echo textLink('bunchofbunk', 'Difficult 2nd', '?page=difficult2nd'); ?><br />
+        &middot; <?php echo textLink('bunchofbunk', 'Fearless', '?page=fearless'); ?><br />
         <br />
-        <a href="<?php echo $bob_url . "?page=media"; ?>">Media</a>
+        <?php echo textLink('bunchofbunk', 'Media', '?page=media'); ?>
     </div>
     <div id="socials">
-        <a href="<?php echo $spotify_url; ?>"><img alt="Spotify" src="<?php echo $spotify_icon; ?>" /></a>
-        <a href="<?php echo $reverbnation_url; ?>"><img alt="ReverbNation" src="<?php echo $reverbnation_icon; ?>" /></a>
-        <a href="<?php echo $soundcloud_url; ?>"><img alt="SoundCloud" src="<?php echo $soundcloud_icon; ?>" /></a>
-        <a href="<?php echo $youtube_url; ?>"><img alt="YouTube" src="<?php echo $youtube_icon; ?>" /></a>
-        <a href="<?php echo $facebook_url; ?>"><img alt="Facebook" src="<?php echo $facebook_icon; ?>" /></a>
-        <a href="<?php echo $instagram_url; ?>"><img alt="Instagram" src="<?php echo $instagram_icon; ?>" /></a>
-        <a href="<?php echo $bobthreads_url_url; ?>"><img alt="Threads" src="<?php echo $threads_icon; ?>" /></a>
-        <a href="<?php echo $mail_url; ?>"><img alt="mail" src="<?php echo $mail_icon; ?>" /></a><br />
+        <?php echo iconLink('spotify'); ?>
+        <?php echo iconLink('reverbnation'); ?>
+        <?php echo iconLink('soundcloud'); ?>
+        <?php echo iconLink('youtube'); ?>
+        <?php echo iconLink('facebook'); ?>
+        <?php echo iconLink('instagram'); ?>
+        <?php echo iconLink('threads'); ?>
+        <?php echo iconLink('mail'); ?>
     </div>
     <div id="muzikantenbank">
-        <a href="<?php echo $muzikantenbank_url; ?>">Muzikantenbank.NET</a> voor als je muzikanten of een bandje zoekt.
+        <?php echo textLink('muzikantenbank'); ?> voor als je muzikanten of een bandje zoekt.
     </div>
 </div>
 <div id="content">
@@ -68,8 +68,7 @@ startHtmlPage($PATH_TO_ROOT, $bob_title, $bob_line);
 </div>
 
 <div id="by">
-    <?php randomHtmlMusicSymbol(); ?>
-    site by <a href="<?php echo $alt0_url; ?>"><?php echo $alt0_title; ?></a>
+    <?php randomHtmlMusicSymbol(); ?> site by <?php echo textLink('alt0'); ?>
 </div>
 
 <?php #=========================================================================
