@@ -67,9 +67,12 @@ div#auteursrechten h3, div#copyright h3 {
 }
 
 div#sidebar {
+	font-family: 'Open Sans', Helvetica, sans-serif;
+}
+
+div#sidegray {
 	background-color: rgb(245 245 245 / 95%);
 	border-radius: 14px;
-	font-family: 'Open Sans', Helvetica, sans-serif;
 	padding: 14px;
 }
 
@@ -91,6 +94,9 @@ div#muzikantenbank {
 }
 
 div#content {
+	background-color: rgb(245 245 245 / 30%);
+	border-radius: 7px;
+	margin-left: 21px;
 	padding: 7px 7px 7px 21px;
 }
 
@@ -109,6 +115,7 @@ div#content h2 {
 	font-size: 1.3rem;
 	font-style: normal;
 	font-weight: bold;
+	margin-top: 21px;
 }
 
 div#content p {

@@ -14,7 +14,7 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
 <h2><?php echo $boblinks['bunchofbunk']['tag']; ?></h2>
 
 <div id="page">
-<div id="sidebar">
+<div id="sidebar"><div id="sidegray">
     <div id="navigation">
         <?php echo pageLink('band'); ?><br />
         <br />
@@ -38,7 +38,7 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
     <div id="muzikantenbank">
         <?php echo textLink('muzikantenbank'); ?> voor als je muzikanten of een bandje zoekt.
     </div>
-</div>
+</div></div>
 <div id="content">
 <?php
     $page = htmlspecialchars(getGet('page', 'home'));
