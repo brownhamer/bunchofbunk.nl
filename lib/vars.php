@@ -22,10 +22,16 @@ $boblinks = [
         'icon' => $PATH_TO_ROOT.'/images/favicon/favicon-16.png',
         'tag'  => 'We rock!',
     ],
+
     'alt0' => [
         'url'  => 'https://alt0.nl',
         'text' => 'Alt0.nl',
         'icon' => $PATH_TO_ROOT.'/images/alt0.png',
+    ],
+    'fieldtrip' => [
+        'url'  => 'https://www.facebook.com/bandfieldtrip/',
+        'text' => 'Fieldtrip',
+        'icon' => $PATH_TO_ROOT.'/images/fieldtrip.png',
     ],
     'xyzon' => [
         'url'  => 'http://xyzon.nl',
