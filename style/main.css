@@ -95,13 +95,20 @@ div#content {
 }
 
 div#content h1, div#content h2, div#content h3 {
-	margin: 0;
+	margin: 0 0 21px 0;
 	padding: 0;
 	text-align: left;
 }
 
 div#content h1 {
-	font-size: 1.5rem;
+	font-size: 2rem;
+}
+
+div#content h2 {
+	border: 0 none;
+	font-size: 1.3rem;
+	font-style: normal;
+	font-weight: bold;
 }
 
 div#content p {
