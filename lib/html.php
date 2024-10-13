@@ -43,8 +43,8 @@ function textLink($key, $txt = '', $urladd = '') {
 }
 
 #-------------------------------------------------------------------------------
-function imageLink($url, $alt, $src, $class) {
-	return '<a href="'.$url.'"><img alt="'.$alt.'" class="'.$class.'" src="'.$src.'" /></a>';
+function imageLink($url, $alt, $src) {
+	return '<a href="'.$url.'"><img alt="'.$alt.'" src="'.$src.'" /></a>';
 }
 
 #-------------------------------------------------------------------------------
