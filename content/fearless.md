@@ -8,7 +8,7 @@ Ons derde album en het eerste album in de nieuwe bezetting met Geert-Jan op gita
 Deze keer wat serieuzer aangepakt en opgenomen bij _In The Room_ in Kaatsheuvel.
 
 Met speciale dank aan [Daan Janzing](https://en.wikipedia.org/wiki/Daan_Janzing) voor zijn tips en vooral z’n geduld.
-Het artwork voor de CD hebben deze keer ook maar niet zelf gedaan, maar door [Krystal Penney](https://nl.fiverr.com/krystalpenney), gevonden via [Fiverr](https://nl.fiverr.com/).
+Het [artwork voor de CD](https://nl.fiverr.com/users/krystalpenney/portfolio/NjRmNzM5ODQ2M2QzMzAwMDAxMGFkODZk) hebben deze keer ook maar niet zelf gedaan, maar door [Krystal Penney](https://nl.fiverr.com/krystalpenney), gevonden via [Fiverr](https://nl.fiverr.com/).
 
 ## Songs
 
