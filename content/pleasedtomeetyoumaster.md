@@ -1,3 +1,20 @@
-# Pleased to Meet You Master
+# Pleased To Meet You Master
 
-Eerste album, remaster versie.
+## Pleased To Meet You _Master_ (2011)
+
+Zelfde als het eerste album, maar nu ge-(re)mastered door Maarten van Helden, klinkt echt beter!
+
+1. Pleased To Meet You _Master_
+2. _Master_ In My Head
+3. Can't Have Her _Master_
+4. _Master_ Seven Sins
+5. Amazing _Master_
+6. Fakin' _Master_
+7. Super Hero _Master_
+8. I Hope You Will _Master_
+9. _Master_ Breaking Up (Sad Goodbyes)
+
+## Online
+
+* Als playlist op ReverbNation.
+* Ook als playlist op SoundCloud.
