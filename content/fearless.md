@@ -1,6 +1,6 @@
 # Fearless
 
-# Fearless (2021-2022)
+## Fearless (2021-2022)
 
 Ons derde album en het eerste album in de nieuwe bezetting met Geert-Jan op gitaar, Jip op drum en Karen als zangeres. Deze keer wat serieuzer aangepakt en opgenomen bij In The Room in Kaatsheuvel. Met speciale dank aan Daan Janzing voor zijn tips en vooral z’n geduld. Het artwork voor de CD hebben deze keer ook maar niet zelf gedaan, maar via Fiverr door Krystal Penney.
 
