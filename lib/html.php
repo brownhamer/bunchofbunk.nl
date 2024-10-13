@@ -50,7 +50,7 @@ function imageLink($url, $alt, $src, $class) {
 #-------------------------------------------------------------------------------
 function pageLink($key) {
 	global $bobpages;
-	return textlink('bunchofbunk', $bobpages[$key], '?page='.$key);
+	return textlink('bunchofbunk', $bobpages[$key], '/?page='.$key);
 }
 
 #-------------------------------------------------------------------------------
