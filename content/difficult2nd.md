@@ -20,5 +20,5 @@ Na deze opnames besloot Corjan te stoppen met de band, is Coeno vanachter het dr
 
 ## Online
 
-* De playlist op ReverbNation.
-* Uiteraard ook als playlist op SoundCloud.
+* De playlist op [ReverbNation](http://www.reverbnation.com/playlist/view_playlist/3542069?page_object=artist_795369).
+* Uiteraard ook als playlist op [SoundCloud](https://soundcloud.com/bunch-of-bunk/sets/difficult-2nd).

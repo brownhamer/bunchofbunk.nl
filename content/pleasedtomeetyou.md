@@ -16,7 +16,7 @@ Ons eerste album, onder eigen beheer opgenomen (zelf betaald dus). Opgenomen en 
 
 ## Online
 
-* Als playlist op ReverbNation.
+* Als playlist op [ReverbNation](http://www.reverbnation.com/playlist/view_playlist/1574308?page_object=artist_795369).
 
 ## Recenties
 

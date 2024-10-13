@@ -16,5 +16,5 @@ Zelfde als het eerste album, maar nu ge-(re)mastered door Maarten van Helden, kl
 
 ## Online
 
-* Als playlist op ReverbNation.
-* Ook als playlist op SoundCloud.
+* Als playlist op [ReverbNation](http://www.reverbnation.com/playlist/view_playlist/3282143?page_object=artist_795369).
+* Ook als playlist op [SoundCloud](https://soundcloud.com/bunch-of-bunk/sets/difficult-2nd).
