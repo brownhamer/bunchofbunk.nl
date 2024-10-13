@@ -54,6 +54,7 @@ div#footer {
 }
 
 div#auteursrechten, div#copyright {
+	border: 1px solid rgb(240 240 240);
 	background-color: rgb(255 255 255 / 30%);
 	border-radius: 14px;
 	margin: 7px;
@@ -71,6 +72,7 @@ div#sidebar {
 }
 
 div#sidegray {
+	border: 1px solid rgb(220 220 220);
 	background-color: rgb(245 245 245 / 95%);
 	border-radius: 14px;
 	padding: 14px;
@@ -94,7 +96,8 @@ div#muzikantenbank {
 }
 
 div#content {
-	background-color: rgb(245 245 245 / 30%);
+	border: 1px solid rgb(240 240 240);
+	background-color: rgb(255 255 255 / 75%);
 	border-radius: 7px;
 	margin-left: 21px;
 	padding: 7px 7px 7px 21px;
