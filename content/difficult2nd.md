@@ -17,7 +17,7 @@ Na deze opnames besloot Corjan te stoppen met de band, is Coeno vanachter het dr
 3. [You Came Along](albums/difficult2nd/youcamealong.mp3)
 4. [Feel It](albums/difficult2nd/feelit.mp3)
 5. [Don't Change Me](albums/difficult2nd/dontchangeme.mp3)
-6. [Destructive](albums/difficult2nd/descructive.mp3)
+6. [Destructive](albums/difficult2nd/destructive.mp3)
 7. [Looking At You](albums/difficult2nd/lookingatyou.mp3)
 8. [King Asinine](albums/difficult2nd/kingasinine.mp3)
 9. [Fat Cats](albums/difficult2nd/fatcats.mp3)
