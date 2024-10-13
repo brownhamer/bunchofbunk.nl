@@ -35,7 +35,12 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
         <?php echo iconLink('mail'); ?>
     </div>
     <div id="muzikantenbank">
-        <?php echo textLink('muzikantenbank'); ?> voor als je muzikanten of een bandje zoekt.
+        <?php
+            randomHtmlMusicSymbol();
+            echo ' '.textLink('muzikantenbank').' ';
+            randomHtmlMusicSymbol();
+        ?><br />
+        Voor als je muzikanten of een bandje zoekt.
     </div>
 </div></div>
 <div id="content">
