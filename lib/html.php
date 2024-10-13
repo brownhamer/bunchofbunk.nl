@@ -43,6 +43,11 @@ function textLink($key, $txt = '', $urladd = '') {
 }
 
 #-------------------------------------------------------------------------------
+function imageLink($url, $alt, $src, $class) {
+	return '<a href="'.$url.'"><img alt="'.$alt.'" class="'.$class.'" src="'.$src.'" /></a>';
+}
+
+#-------------------------------------------------------------------------------
 function pageLink($key) {
 	global $bobpages;
 	return textlink('bunchofbunk', $bobpages[$key], '?page='.$key);
@@ -54,7 +59,7 @@ function iconLink($key) {
 	$url  = $boblinks[$key]['url'];
 	$text = $boblinks[$key]['text'];
 	$icon = $boblinks[$key]['icon'];
-	return '<a href="'.$url.'"><img alt="'.$text.'" src="'.$icon.'" /></a>';
+	return imageLink($url, $text, $icon, 'icon');
 }
 
 #-------------------------------------------------------------------------------

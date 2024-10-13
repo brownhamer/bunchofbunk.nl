@@ -1,5 +1,7 @@
 <?php #=========================================================================
 
+$HOME = onLocalhost() ? 'http://localhost/bunchofbunk.nl' : 'https://bunchofbunk.nl';
+
 #-------------------------------------------------------------------------------
 $bobpages = [
     'band' => "Band",
@@ -18,7 +20,7 @@ $bobpages = [
 # Links to various sites, also useable in Markdown using [BOBLINK_<key>]
 $boblinks = [
     'bunchofbunk' => [
-        'url'  => onLocalhost() ? 'http://localhost/bunchofbunk.nl/' : 'https://bunchofbunk.nl',
+        'url'  => $HOME,
         'text' => 'Bunch of Bunk',
         'icon' => $PATH_TO_ROOT.'/images/favicon/favicon-16.png',
         'tag'  => 'We rock!',
