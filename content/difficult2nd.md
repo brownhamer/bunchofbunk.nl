@@ -2,7 +2,7 @@
 
 ## Difficult 2nd (2014-2015)
 
-Het altijd lastige tweede album, weer onder eigen beheer opgenomen. Net als vorige keer opgenomen in Channel 27 in Tilburg, maar deze keer afgemixed door Hein Speigels (en Tzacor). 11 nummers in 2 dagen opnemen was misschien iets te veel van het goede, maar desondanks staat het er best aardig op.
+Het altijd lastige tweede album, weer onder eigen beheer opgenomen. Net als vorige keer opgenomen in _Channel 27_ in Tilburg, maar deze keer afgemixed door _Hein Speigels_ (en Tzacor). 11 nummers in 2 dagen opnemen was misschien iets te veel van het goede, maar desondanks staat het er best aardig op.
 
 Na deze opnames besloot Corjan te stoppen met de band, is Coeno vanachter het drumstel gestapt om de zang over te nemen en is Rob onze band komen versterken op de drums.
 

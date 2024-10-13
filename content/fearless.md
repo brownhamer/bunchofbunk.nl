@@ -2,7 +2,7 @@
 
 ## Fearless (2021-2022)
 
-Ons derde album en het eerste album in de nieuwe bezetting met Geert-Jan op gitaar, Jip op drum en Karen als zangeres. Deze keer wat serieuzer aangepakt en opgenomen bij In The Room in Kaatsheuvel. Met speciale dank aan [Daan Janzing](https://en.wikipedia.org/wiki/Daan_Janzing) voor zijn tips en vooral z’n geduld. Het artwork voor de CD hebben deze keer ook maar niet zelf gedaan, maar via [Fiverr](https://nl.fiverr.com/) door [Krystal Penney](https://nl.fiverr.com/krystalpenney).
+Ons derde album en het eerste album in de nieuwe bezetting met Geert-Jan op gitaar, Jip als onze drummer (maar de opnames ingespeeld door Coeno) en Karen als zangeres. Deze keer wat serieuzer aangepakt en opgenomen bij _In The Room_ in Kaatsheuvel. Met speciale dank aan [Daan Janzing](https://en.wikipedia.org/wiki/Daan_Janzing) voor zijn tips en vooral z’n geduld. Het artwork voor de CD hebben deze keer ook maar niet zelf gedaan, maar door [Krystal Penney](https://nl.fiverr.com/krystalpenney), gevonden via [Fiverr](https://nl.fiverr.com/).
 
 1. You
 2. Fearless

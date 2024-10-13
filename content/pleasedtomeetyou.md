@@ -2,7 +2,7 @@
 
 ## Pleased To Meet You (2010)
 
-Ons eerste album, onder eigen beheer opgenomen (zelf betaald dus). Opgenomen en afgemixt door Joop Snik van Sonar Producties in Channel 27 in Tilburg.
+Ons eerste album, onder eigen beheer opgenomen (zelf betaald dus). Opgenomen en afgemixt door _Joop Snik_ in _Channel 27_ in Tilburg.
 
 1. Pleased To Meet You
 2. In My Head

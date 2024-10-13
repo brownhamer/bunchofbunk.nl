@@ -2,7 +2,7 @@
 
 ## Pleased To Meet You _Master_ (2011)
 
-Zelfde als het eerste album, maar nu ge-(re)mastered door Maarten van Helden, klinkt echt beter!
+Zelfde als album [BOBPAGE_pleasedtomeetyou], maar nu ge-(re)mastered door _Maarten van Helden_, klinkt echt beter!
 
 1. Pleased To Meet You _Master_
 2. _Master_ In My Head
