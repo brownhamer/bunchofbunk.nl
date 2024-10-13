@@ -4,8 +4,8 @@
 $bobpages = [
     'band' => "Band",
     'albums' => "Albums",
-    'pleasedtomeetyou' => "Pleased to Meet You",
-    'pleasedtomeetyoumaster' => "Pleased to Meet You Master",
+    'pleasedtomeetyou' => "Pleased To Meet You",
+    'pleasedtomeetyoumaster' => "Pleased To Meet You Master",
     'difficult2nd' => "Difficult 2nd",
     'fearless' => "Fearless",
     'media' => "Media",
