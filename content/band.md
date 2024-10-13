@@ -1,5 +1,7 @@
 # Band
 
+![Bunch of Bunk logo](images/BoB-logo.png#albumcover)
+
 ## Bandleden
 
 - **Coeno den Engelsman**: *drum*
