@@ -22,9 +22,7 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
         &middot; <?php echo pageLink('pleasedtomeetyou'); ?><br />
         &middot; <?php echo pageLink('pleasedtomeetyoumaster'); ?><br />
         &middot; <?php echo pageLink('difficult2nd'); ?><br />
-        &middot; <?php echo pageLink('fearless'); ?><br />
-        <br />
-        <?php echo pageLink('media'); ?>
+        &middot; <?php echo pageLink('fearless'); ?>
     </div>
     <div id="socials">
         <?php echo iconLink('spotify'); ?>

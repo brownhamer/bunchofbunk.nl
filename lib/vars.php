@@ -10,7 +10,6 @@ $bobpages = [
     'pleasedtomeetyoumaster' => "Pleased To Meet You Master",
     'difficult2nd' => "Difficult 2nd",
     'fearless' => "Fearless",
-    'media' => "Media",
 ];
 
 #-------------------------------------------------------------------------------
@@ -20,7 +19,7 @@ $bobpages = [
 # Links to various sites, also useable in Markdown using [BOBLINK_<key>]
 $boblinks = [
     'bunchofbunk' => [
-        'url'  => $HOME,
+        'url'  => $HOME.'/',
         'text' => 'Bunch of Bunk',
         'icon' => $PATH_TO_ROOT.'/images/favicon/favicon-16.png',
         'tag'  => 'We rock!',
