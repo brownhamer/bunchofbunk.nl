@@ -9,15 +9,15 @@ Opgenomen en afgemixt door _Joop Snik_ in _Channel 27_ in Tilburg.
 
 ## Songs
 
-1. Pleased To Meet You
-2. In My Head
-3. Can't Have Her
-4. Seven Sins
-5. Amazing
-6. Fakin'
-7. Super Hero
-8. I Hope You Will
-9. Breaking Up (Sad Goodbyes)
+1. [Pleased To Meet You](albums/pleasedtomeetyou/pleasedtomeetyou.mp3)
+2. [In My Head](albums/pleasedtomeetyou/inmyhead.mp3)
+3. [Can't Have Her](albums/pleasedtomeetyou/canthaveher.mp3)
+4. [Seven Sins](albums/pleasedtomeetyou/sevensins.mp3)
+5. [Amazing](albums/pleasedtomeetyou/amazing.mp3)
+6. [Fakin'](albums/pleasedtomeetyou/fakin.mp3)
+7. [Super Hero](albums/pleasedtomeetyou/superhero.mp3)
+8. [I Hope You Will](albums/pleasedtomeetyou/ihopeyouwill.mp3)
+9. [Breaking Up (Sad Goodbyes)](albums/pleasedtomeetyou/breakingup.mp3)
 
 ## Online
 
