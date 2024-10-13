@@ -1,5 +1,7 @@
 # Pleased To Meet You
 
+![Pleased To Meet You](albums/pleasedtomeetyou/pleasedtomeetyou.jpg#albumcover)
+
 ## Pleased To Meet You (2010)
 
 Ons eerste album, onder eigen beheer opgenomen (zelf betaald dus).

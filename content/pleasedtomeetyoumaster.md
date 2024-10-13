@@ -1,5 +1,7 @@
 # Pleased To Meet You Master
 
+![Pleased To Meet You Master](albums/pleasedtomeetyoumaster/pleasedtomeetyoumaster.jpg#albumcover)
+
 ## Pleased To Meet You _Master_ (2011)
 
 Zelfde als album [BOBPAGE_pleasedtomeetyou], maar nu ge-(re)mastered door _Maarten van Helden_, klinkt echt beter!

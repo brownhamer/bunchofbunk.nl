@@ -1,5 +1,7 @@
 # Difficult 2nd
 
+![Difficult 2nd](albums/difficult2nd/difficult2nd.jpg#albumcover)
+
 ## Difficult 2nd (2014-2015)
 
 Het altijd lastige tweede album, weer onder eigen beheer opgenomen.

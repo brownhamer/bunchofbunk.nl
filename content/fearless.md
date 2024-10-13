@@ -1,5 +1,7 @@
 # Fearless
 
+![Fearless](albums/fearless/fearless.jpg#albumcover)
+
 ## Fearless (2021-2022)
 
 Ons derde album en het eerste album in de nieuwe bezetting met Geert-Jan op gitaar, Jip als onze drummer (maar de opnames ingespeeld door Coeno) en Karen als zangeres.

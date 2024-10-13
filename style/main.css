@@ -150,6 +150,13 @@ div#by {
 	right: 10px;
 }
 
+img[src*="#albumcover"] {
+	border: 1px solid rgb(240 240 240);
+	border-radius: 14px;
+	float: right;
+	padding: 7px;
+}
+
 a {
 	color: rgb(115 25 15);
 	text-decoration: none;
