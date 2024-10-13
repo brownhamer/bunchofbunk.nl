@@ -12,17 +12,17 @@ Na deze opnames besloot Corjan te stoppen met de band, is Coeno vanachter het dr
 
 ## Songs
 
-1. Difficult Second
-2. 24 Hours
-3. You Came Along
-4. Feel It
-5. Don't Change Me
-6. Destructive
-7. Looking At You
-8. King Asinine
-9. Fat Cats
-10. Suicide Girl
-11. Cowboy Billy
+1. [Difficult Second](albums/difficult2nd/difficultsecond.mp3)
+2. [24 Hours](albums/difficult2nd/24hours.mp3)
+3. [You Came Along](albums/difficult2nd/youcamealong.mp3)
+4. [Feel It](albums/difficult2nd/feelit.mp3)
+5. [Don't Change Me](albums/difficult2nd/dontchangeme.mp3)
+6. [Destructive](albums/difficult2nd/descructive.mp3)
+7. [Looking At You](albums/difficult2nd/lookingatyou.mp3)
+8. [King Asinine](albums/difficult2nd/kingasinine.mp3)
+9. [Fat Cats](albums/difficult2nd/fatcats.mp3)
+10. [Suicide Girl](albums/difficult2nd/suicidegirl.mp3)
+11. [Cowboy Billy](albums/difficult2nd/cowboybilly.mp3)
 
 ## Online
 

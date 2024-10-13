@@ -12,14 +12,14 @@ Het artwork voor de CD hebben deze keer ook maar niet zelf gedaan, maar door [Kr
 
 ## Songs
 
-1. You
-2. Fearless
-3. Dig In
-4. Get Up
-5. Destructive
-6. Open Your Eyes
-7. Pinky
-8. Move On
+1. [You](albums/fearless/you.mp3)
+2. [Fearless](albums/fearless/fearless.mp3)
+3. [Dig In](albums/fearless/digin.mp3)
+4. [Get Up](albums/fearless/getup.mp3)
+5. [Destructive](albums/fearless/destructive.mp3)
+6. [Open Your Eyes](albums/fearless/openyoureyes.mp3)
+7. [Pinky](albums/fearless/pinky.mp3)
+8. [Move On](albums/fearless/moveon.mp3)
 
 ## Online
 
