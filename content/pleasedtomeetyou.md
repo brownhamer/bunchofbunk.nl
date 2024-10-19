@@ -27,6 +27,9 @@ Opgenomen en afgemixt door _Joop Snik_ in _Channel 27_ in Tilburg.
 
 Zowaar heeft de CD nog aandacht gekregen ook van andere mensen op internet.
 
+* [Angelo's Rock Orphanage](http://www.angelosrockorphanage.com/2012/03/04/bunch-of-bunk/)
+> For those who like hard rock as it was played in the seventies and nineties, but with a modern production sound.
+
 * [Kamil Tom](http://kamil-tom.webnode.cz/products/bunch-of-bunks1/)
 > They play hard rock and glam metal genre and they play it well!
 
