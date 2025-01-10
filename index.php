@@ -29,9 +29,6 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
         <?php echo iconLink('reverbnation'); ?>
         <?php echo iconLink('soundcloud'); ?>
         <?php echo iconLink('youtube'); ?>
-        <?php echo iconLink('facebook'); ?>
-        <?php echo iconLink('instagram'); ?>
-        <?php echo iconLink('threads'); ?>
         <?php echo iconLink('mail'); ?>
     </div>
     <div id="muzikantenbank">

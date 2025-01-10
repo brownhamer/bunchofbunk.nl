@@ -16,8 +16,6 @@
 
 - Laatste CD [BOBPAGE_fearless] is onder meer te vinden op [BOBLINK_spotify].
 - Muziek is te vinden op [BOBLINK_reverbnation] en [BOBLINK_soundcloud], maar ook op [BOBLINK_youtube].
-- Natuurlijk zijn we te vinden op [BOBLINK_facebook].
-- Heel soms plaatsen we zelfs iets op [BOBLINK_instagram], misschien zelf op [BOBLINK_threads].
 - We zijn uiteraard ook via [BOBLINK_mail] bereikbaar.
 
 ## Oud bandleden

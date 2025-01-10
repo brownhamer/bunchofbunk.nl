@@ -41,16 +41,6 @@ $boblinks = [
         'icon' => $PATH_TO_ROOT.'/images/xyzon.png',
     ],
 
-    'facebook' => [
-        'url'  => 'https://www.facebook.com/pages/Bunch-of-Bunk/137974419583188',
-        'text' => 'Facebook',
-        'icon' => $PATH_TO_ROOT.'/images/facebook.png',
-    ],
-    'instagram' => [
-        'url'  => 'https://www.instagram.com/bunchofbunk/',
-        'text' => 'Instagram',
-        'icon' => $PATH_TO_ROOT.'/images/instagram.png',
-    ],
     'mail' => [
         'url'  => 'mailto:band@bunchofbunk.nl',
         'text' => 'Mail',
@@ -75,11 +65,6 @@ $boblinks = [
         'url'  => 'https://open.spotify.com/artist/5hRck8ylzUPLXWXrcHKJ2D',
         'text' => 'Spotify',
         'icon' => $PATH_TO_ROOT.'/images/spotify.png',
-    ],
-    'threads' => [
-        'url'  => 'https://www.threads.net/@bunchofbunk',
-        'text' => 'Threads',
-        'icon' => $PATH_TO_ROOT.'/images/threads.png',
     ],
     'youtube' => [
         'url'  => 'https://www.youtube.com/channel/UCyjs_qrurO6OdGXZgcJhK-g',
