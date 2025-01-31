@@ -61,12 +61,12 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
     <div id="auteursrechten">
         <h3>Auteursrechten</h3><br /><br />
         Al onze nummers mogen gedownload, gekopiëerd, verspreid worden e.d.
-        Ze mogen echter niet gewijzigd worden, commercieel gebruikt of iets wat daar op lijkt zonder onze schriftelijke toestemming.
+        Ze mogen echter niet gewijzigd worden, commercieel of voor A.I. doeleinden gebruikt worden of iets wat daar op lijkt zonder onze schriftelijke toestemming.
     </div>
     <div id="copyright">
         <h3>Copyright</h3><br /><br />
         All songs may be downloaded, copied, distributed and such.
-        They may however, not be changed, used commercially or anything like that without our written consent.
+        They may however, not be changed, used commercially or for A.I. purposes or anything like that without our written consent.
     </div>
 </div>
 
