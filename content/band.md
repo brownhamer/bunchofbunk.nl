@@ -4,7 +4,6 @@
 
 ## Bandleden
 
-- **Coeno den Engelsman**: *drum*
 - **Geert-Jan Pistorius**: *gitaar*
 - **Hendrik de Goede**: *gitaar* - ([BOBLINK_alt0])
 - **Karen Slangen**: *zang*
@@ -20,6 +19,7 @@
 
 ## Oud bandleden
 
+- **Coeno den Engelsman**: *drum*
 - **Corjan Verbraak**: *zang*
 - **Floor**: *zang* - ([BOBLINK_fieldtrip])
 - **Jeroen Blösser**: *gitaar*
