@@ -49,10 +49,11 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
     }
 
     $file = $PATH_TO_ROOT.'/content/'.$page.'.md';
+    echo "\n".'<!-- start ['.$page.'] content from ['.$file.'] -->'."\n";
     $markdown = file_get_contents($file);
     $parsedown = new Parsedown();
     echo replaceBobLinks($parsedown->text($markdown));
-    echo "\n".'<!-- ['.$page.'] content from ['.$file.' -->'."\n";
+    echo "\n".'<!-- end ['.$page.'] content from ['.$file.'] -->'."\n";
 ?>
 </div>
 </div>
