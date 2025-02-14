@@ -7,6 +7,7 @@
 - **Geert-Jan Pistorius**: *gitaar*
 - **Hendrik de Goede**: *gitaar* - ([BOBLINK_alt0])
 - **Karen Slangen**: *zang*
+- **Lennert de Jong**: *drum*
 - **Tzacor den Engelsman**: *bas*
 
 *(op alfabetische volgorde van voornaam, enige relatie met hoe belangrijk een type instrument is in de band, is puur toeval)*
