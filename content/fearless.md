@@ -27,7 +27,6 @@ Het [artwork voor de CD](https://nl.fiverr.com/users/krystalpenney/portfolio/NjR
 * [Apple Music](https://music.apple.com/nl/album/fearless/1617173012) / [iTunes](https://music.apple.com/nl/album/fearless/1617173012)
 * [Deezer](https://deezer.page.link/9RuVGNERuAbUzVTz8)
 * [ReverbNation](https://www.reverbnation.com/795369/album/289449) _(behalve "Move On" vanwege beperkte kwaliteit door verplichte downscaling)_
-* [SoundCloud](https://soundcloud.com/bunch-of-bunk/sets/fearless)
 * [Spotify](https://open.spotify.com/album/538LmXyWbadATH7Jo1V6e6?si=JATxR_D7QESaeEdxc5Uwsg)
 * [Tidal](https://store.tidal.com/nl/album/223331210)
 * [YouTube Music](https://music.youtube.com/playlist?list=OLAK5uy_kYQybzXHIusC8gLVKzvH9C5QN0TNfnG10&feature=share)
