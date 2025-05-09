@@ -56,11 +56,6 @@ $boblinks = [
         'text' => 'ReverbNation',
         'icon' => $PATH_TO_ROOT.'/images/reverbnation.png',
     ],
-    'soundcloud' => [
-        'url'  => 'https://soundcloud.com/bunch-of-bunk',
-        'text' => 'SoundCloud',
-        'icon' => $PATH_TO_ROOT.'/images/soundcloud.png',
-    ],
     'spotify' => [
         'url'  => 'https://open.spotify.com/artist/5hRck8ylzUPLXWXrcHKJ2D',
         'text' => 'Spotify',

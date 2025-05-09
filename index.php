@@ -27,7 +27,6 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
     <div id="socials">
         <?php echo iconLink('spotify'); ?>
         <?php echo iconLink('reverbnation'); ?>
-        <?php echo iconLink('soundcloud'); ?>
         <?php echo iconLink('youtube'); ?>
         <?php echo iconLink('mail'); ?>
     </div>
