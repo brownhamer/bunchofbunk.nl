@@ -41,6 +41,11 @@ $boblinks = [
         'icon' => $PATH_TO_ROOT.'/images/xyzon.png',
     ],
 
+    'bandcamp' => [
+        'url'  => 'https://bunchofbunk.bandcamp.com/',
+        'text' => 'Bandcamp',
+        'icon' => $PATH_TO_ROOT.'/images/bandcamp.png',
+    ],
     'mail' => [
         'url'  => 'mailto:band@bunchofbunk.nl',
         'text' => 'Mail',

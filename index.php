@@ -25,6 +25,7 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
         &middot; <?php echo pageLink('fearless'); ?>
     </div>
     <div id="socials">
+        <?php echo iconLink('bandcamp'); ?>
         <?php echo iconLink('spotify'); ?>
         <?php echo iconLink('reverbnation'); ?>
         <?php echo iconLink('youtube'); ?>
