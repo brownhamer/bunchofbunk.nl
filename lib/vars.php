@@ -5,6 +5,7 @@ $HOME = onLocalhost() ? 'http://localhost/bunchofbunk.nl' : 'https://bunchofbunk
 #-------------------------------------------------------------------------------
 $bobpages = [
     'band' => "Band",
+    'coeno' => "Coeno",
     'albums' => "Albums",
     'pleasedtomeetyou' => "Pleased To Meet You",
     'pleasedtomeetyoumaster' => "Pleased To Meet You Master",

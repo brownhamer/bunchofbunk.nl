@@ -17,6 +17,7 @@ startHtmlPage($PATH_TO_ROOT, $boblinks['bunchofbunk']['text'], $boblinks['buncho
 <div id="sidebar"><div id="sidegray">
     <div id="navigation">
         <?php echo pageLink('band'); ?><br />
+        &middot; <?php echo pageLink('coeno'); ?><br />
         <br />
         <?php echo pageLink('albums'); ?><br />
         &middot; <?php echo pageLink('pleasedtomeetyou'); ?><br />
