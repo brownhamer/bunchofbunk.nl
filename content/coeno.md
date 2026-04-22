@@ -9,4 +9,5 @@ en nemen wij je gewoon mee terug.
 
 1 december 1975 - 20 april 2026
 
-Vergeten zullen we Coeno niet, maar missen des te meer.
+Vergeten zullen we Coeno niet,\
+maar missen des te meer.
