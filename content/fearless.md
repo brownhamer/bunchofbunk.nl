@@ -4,7 +4,7 @@
 
 ## Fearless (2021-2022)
 
-Ons derde album en het eerste album in de nieuwe bezetting met Geert-Jan op gitaar, Jip als onze drummer (maar de opnames ingespeeld door Coeno) en Karen als zangeres.
+Ons derde album en het eerste album in de nieuwe bezetting met Geert-Jan op gitaar, Jip als onze drummer (maar de opnames ingespeeld door [BOBPAGE_coeno]) en Karen als zangeres.
 Deze keer wat serieuzer aangepakt en opgenomen bij _In The Room_ in Kaatsheuvel.
 
 Met speciale dank aan [Daan Janzing](https://en.wikipedia.org/wiki/Daan_Janzing) voor zijn tips en vooral z’n geduld.

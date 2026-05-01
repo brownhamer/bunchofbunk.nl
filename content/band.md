@@ -20,7 +20,7 @@
 
 ## Oud bandleden
 
-- **Coeno den Engelsman**: *drum*
+- **[BOBPAGE_coeno] den Engelsman**: *drum*
 - **Corjan Verbraak**: *zang*
 - **Floor**: *zang* - ([BOBLINK_fieldtrip])
 - **Jeroen Blösser**: *gitaar*
